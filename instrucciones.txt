@@ -12,3 +12,7 @@ Para correr el json-server es necesario actualizar el packaje.json con la siguie
                  '"json-server": "json-server --watch db.json"'
 
 Instalamos axios: "npm install axios"
+
+/*Opcional*/
+uuid genera una id automática "npm install uuid"
+
