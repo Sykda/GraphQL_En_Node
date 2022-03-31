@@ -1,0 +1,14 @@
+Para este proyecto es necesario Node.js "https://nodejs.org/es/"
+Crear carpeta de proyecto
+Para iniciar, navegar hasta la carpeta desde la terminal y ejecutar: "npm init -y"
+Necesario instalar apollo-server y graphql: "npm install apollo-server graphql"
+Crear el archivo "index.js"
+Para iniciar el server: "node index.js"
+Para iniciar la fake-api de json-server: "npm run json-server"
+db.json es un .json que simula una bbdd y se crea de forma manual
+Para meter imports es necesario actualizar el packaje.json con la siguiente línea debajo de "main": 
+                                    "type": "module"
+Para correr el json-server es necesario actualizar el packaje.json con la siguiente línea en "script":
+                 '"json-server": "json-server --watch db.json"'
+
+Instalamos axios: "npm install axios"

@@ -1,0 +1,25 @@
+{
+    "persons": [
+        {
+            "name": "Rober MP",
+            "phone": "654321654",
+            "street": "Isabel Clara...",
+            "city": "Madrid",
+            "id": "1"
+        },
+        {
+            "name": "Svetlana SX",
+            "phone": "789456123",
+            "street": "Kiev",
+            "city": "Moscow",
+            "id": "2"
+        },
+        {
+            "name": "Ramon VZ",
+            "phone": "987654321",
+            "street": "Madrid",
+            "city": "Salvador",
+            "id": "3"
+        }
+    ]
+}
